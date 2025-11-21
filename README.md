@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Ralph 👋
 
-<!--
-**RalphYrhon/RalphYrhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Data Analyst | Python • SQL • Power BI
 
-Here are some ideas to get you started:
+I'm passionate about turning raw data into meaningful insights. Currently learning **Python for data cleaning**, **SQL for data storage**, and **Power BI for building dashboards**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Development Tools
+- **Languages:** Python, SQL  
+- **Tools:** Power BI, Excel
+- **Databases:** SQL Server, MySQL  
+- **Skills:** Data Cleaning, ETL, Data Visualization
+
+---
+
+## 📚 What I'm Learning Now
+- Power BI DAX  
+- SQL performance optimization
+- Data cleaning w/ python 
+- Building end-to-end data pipelines
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** https://linkedin.com/in/ralph-yrhon-camangon-002a042a8
+- **Email:** ralphcamangon09@gmail.com 
+
+---
+
+⭐ *Feel free to check out my repositories. Your feedback would be greatly appreciated.*
