@@ -9,7 +9,7 @@ I'm passionate about turning raw data into meaningful insights. Currently learni
 ## 🧰 Development Tools
 - **Languages:** Python, SQL  
 - **Tools:** Power BI, Excel
-- **Databases:** SQL Server, MySQL  
+- **Databases:** SQL Server, MySQLm PostgreSQL 
 - **Skills:** Data Cleaning, ETL, Data Visualization
 
 ---
