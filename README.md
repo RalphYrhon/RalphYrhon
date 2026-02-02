@@ -1,8 +1,8 @@
 # Hi there, I'm Ralph 👋
 
-### 🚀 Aspiring Data Analyst | Python • SQL • Power BI
+## 🚀 Aspiring Data Analyst | Python • SQL • Power BI
 
-I'm passionate about turning raw data into meaningful insights. Currently learning **Python for data cleaning**, **SQL for data storage**, and **Power BI for building dashboards**. I also enjoy AI-assisted coding, using tools to streamline development and build projects with Python, SQL, Flask, HTML, and CSS, whether it’s cleaning data or creating full-stack web applications.
+#### I'm passionate about turning raw data into meaningful insights. Currently learning **Python for data cleaning**, **SQL for data storage**, **and Power BI for building dashboards**. I also enjoy AI-assisted coding, using tools to streamline development and build projects with Python, SQL, Flask, HTML, and CSS, whether it’s cleaning data or creating full-stack web applications.
 ---
 
 ## 🧰 Development Tools
