@@ -14,10 +14,11 @@
 ---
 
 ## 📚 What I'm Learning Now
-- Power BI DAX  
-- SQL performance optimization
-- Data cleaning 
-- Building end-to-end data pipelines
+- Advanced SQL: Window Functions, CTEs, Subqueries, and Query Optimization 
+- Data Analytics: Exploratory Data Analysis (EDA), Data Cleaning, and Statistical Analysis
+- Power BI: Advanced Power Query, DAX, Data Modeling, and KPI Dashboard Development
+- Python: Pandas, Data Manipulation, and Data Analysis Automation
+- Database Design: Data Normalization, Fact and Dimension Tables, and ETL Processes
 
 ---
 
